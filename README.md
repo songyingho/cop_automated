@@ -1,1 +1,1 @@
-# cop_automated
+# Automated Purchase for Listed Brands
